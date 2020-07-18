@@ -46,7 +46,6 @@ for (i = 0; i < testdata.length; i++) {
     // console.log("answer: " + answer)
     for (let index = 0; index < items.length; index++) {
         const element = items[index];
-        console.log(element)
 
         var itemsForm = document.createElement("form")
 
